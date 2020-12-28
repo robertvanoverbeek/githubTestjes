@@ -1,1 +1,2 @@
 Dit is het tweede stukje tekst.
+Dit is het derde stukje tekst voor een conflict.
