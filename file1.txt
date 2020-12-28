@@ -1,2 +1,3 @@
 Dit is het tweede stukje tekst.
-Dit is het derde stukje tekst voor een geupdate tekst.
+Dit is het derde stukje tekst voor een conflict
+extra stukje tekst 20h46
